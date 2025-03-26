@@ -18,7 +18,7 @@ The GWMS aligns with the **Swachh Bharat Campaign**, offering an easy-to-install
 
 Below is the block diagram representing the working principle of the GWMS:
 
-![Block Diagram](image.png)
+![Block Diagram](block_diagram.png)
 
 ---
 
