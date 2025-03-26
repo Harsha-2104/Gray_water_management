@@ -78,3 +78,9 @@ The **Gray Water Management System (GWMS)** is a sustainable and automated solut
 
 By adopting GWMS, we take a step forward in sustainable water management and environmental conservation.
 
+## Demo Video 🎥
+
+Watch the project demo on YouTube:  
+[Project Demo](https://youtu.be/AuoWZDKfCa8?si=3GMyR2nsAuUqUA7f)
+
+
