@@ -1,8 +1,7 @@
-
-const int trigpin = 5;
-const int echopin = 4;
-const int irpin = 3;
-const int relaypin = 8;
+const int trigpin = 5;  // Trig pin of Ultra-sonic sensor
+const int echopin = 4;  // Echo pin of Ultra-sonic sensor
+const int irpin = 3;  // Ir sensor pin configured
+const int relaypin = 8; // Relay pin of solonoid valve connected to the Tap
 
 void setup() {
   pinMode(trigpin, OUTPUT);
