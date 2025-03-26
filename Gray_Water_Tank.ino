@@ -1,9 +1,8 @@
+int Wval = 0;  // Water level sensor value pre-defined
+int Wpin = A0;  // Water level sensor pin 
+int Rpin_fl = 10; // Relay pin for soloniod valve connected to the flush tank
+int Rpin_rp = 9;  // Relay pin for soloniod valve connected to the Recharge pit
 
-
-int Wval = 0;
-int Wpin = A0;
-int Rpin_fl = 10;
-int Rpin_rp = 9;
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(9600);
